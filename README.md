@@ -11,7 +11,7 @@ I analyze this pizza sales data to gain insights into our business performance. 
 + Average Pizzas Per Order: The average number of pizzas sold per order; is calculated by dividing the Total Pizzas Sold by the Total Orders.
 
 
-## 📂
+## 📂 Data Collection
 - The dataset of Pizza Sales in 1 year.
 ## 🛠️ Tools Used
 🔧 Power BI, Excel
